@@ -3,7 +3,6 @@ Hi, I am Badr. Passionate about backend development and systems engineering
 
 Currently reading: Designing Data-Intensive Applications 2nd edition - Martin Kleppmann, Chris Riccomini
 
-# Links:
 [![Email](https://img.shields.io/badge/badrchanaa@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:badrchanaa@gmail.com)
 
 [![Discord](https://img.shields.io/badge/baacx-white?style=for-the-badge&logo=discord)](https://discord.com/users/baacx)
